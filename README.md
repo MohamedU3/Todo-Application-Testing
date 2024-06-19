@@ -13,7 +13,7 @@ NOTE: I was using MongoDB to access the database and you can add your own URL by
 5-For any additional commands check out the "package.json" code and go to the "scripts" section.
 
 ## About the app
-This is a simple to do app where you can add your daily tasks, delete them and mark them as completed.It has 4 major modules/API's: Signup, Login, Todo page, New todo page.
+This is a simple to do app where you can add your daily tasks, delete them and mark them as completed.It has 5 major modules/API's: Signup, Login, Todo page, New todo page and Greeting.
 ## My role in this project
 As a software tester I was required to do black box testing and to do functional and some non functional testing( like compatability testing) by following the Software Requirement Specification.MongoDB was used for controlling databases.I used different testing techniques like Equivalent Partitioning and Boundary Value Analysis.Test cases and bug reports are listed in the "Todo Application Checklist" excel sheet.
 
